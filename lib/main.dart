@@ -16,6 +16,8 @@ class MyApp extends StatelessWidget {
         // this is from the master branch
         // hello there
         // this change came from the remote repo
+        // new branch
+        // this is the testing-branch
         primarySwatch: Colors.red,
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
