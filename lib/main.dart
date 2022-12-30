@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         // this is from the master branch
+        // hello there
         primarySwatch: Colors.red,
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
